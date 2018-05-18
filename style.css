@@ -1,0 +1,261 @@
+
+#isabelle{
+	font-family: Arial, Helvetica, sans-serif;
+	letter-spacing: 1px;
+	background-color:#4aaaa5;
+	width:150px;
+	height:35px;
+	font-size: 30px;
+	text-align: center;
+	color:white;
+	margin-left: 150px;
+	margin-right: 400px;
+	float: left;
+	padding: 10px;
+
+
+}
+
+
+#tabs{
+	color:#777777;
+	float: left;
+	margin-left: 10px;
+	margin-top: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#lines{
+	color:#dddddd;
+	float: left;
+	margin-left: 5px;
+	margin-top: 20px;
+}
+
+#box{
+	clear: both;
+	background-color: white;
+	margin-left: 150px;
+	width:800px;
+	height:500px;
+	border: solid #dddddd 1px;
+}
+
+#portbox1{
+	clear:both;
+	float:left;
+	width:120px;
+	height: 120px;
+	border: solid #777777 2px;
+	margin: 15px;
+	margin-left: 25px;
+	background-image: url(hangman.jpg);
+	background-size: 120px 120px;
+}
+
+#portline1{
+	margin-top: 70px;
+	width:120px;
+	height:38px;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+
+
+}
+#portbox2{
+
+	float: left;
+	width:120px;
+	height: 120px;
+	border: solid #777777 2px;
+	margin: 15px;
+	background-image: url(rpg.jpg);
+	background-size: 120px 120px;
+}
+
+#portline2{
+	margin-top: 70px;
+	width:120px;
+	height:40px;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+
+
+}
+#portbox3{
+
+	float: left;
+	width:120px;
+	height: 120px;
+	border: solid #777777 2px;
+	margin: 15px;
+	background-image: url(trivia.jpg);
+	background-size: 120px 120px;
+}
+
+#portline3{
+	margin-top: 70px;
+	width:120px;
+	height:40px;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+
+
+}
+#portbox4{
+
+	float: left;
+	width:120px;
+	height: 120px;
+	border: solid #777777 2px;
+	margin: 15px;
+	background-image: url(rutgers.jpg);
+	background-size: 120px 120px;
+}
+
+#portline4{
+	margin-top: 70px;
+	width:120px;
+	height:40px;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+
+
+}
+#portbox5{
+
+	float: left;
+	width:120px;
+	height: 120px;
+	border: solid #777777 2px;
+	margin: 15px;
+	background-image: url(rock.png);
+	background-size: 120px 120px;
+}
+
+#portline5{
+	margin-top: 70px;
+	width:120px;
+	height:40px;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+
+
+}
+
+
+#profile{
+	float: left;
+	margin-left: 30px;
+	margin-bottom: 20px;
+	width:200px;
+	height:200px;
+	background-image: url(aboutme.jpg);
+	background-size: 200px 250px;
+}
+#description{
+	float: left;
+	margin-left: 30px;
+	margin-bottom: 20px;
+	width:500px;
+	height:200px;
+	color: #777777;
+	font-family: Arial, Helvetica, sans-serif;
+}
+body{
+	background-image: url(hypnotize.png);
+}
+
+
+
+h1{
+	margin-top: 0px;
+	margin-left: 10px;
+	font-size: x-large;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 20px;
+	clear: both;
+	color:#4aaaa5;
+	padding-left: 20px
+
+}
+#mainline{
+	clear: both;
+	margin-bottom: 20px;
+	color:#dddddd;
+}
+#mainline2{
+	margin-bottom: -1px;
+	clear: both;
+	color:#dddddd;
+}
+#subline{
+	clear: both;
+	margin-bottom: 20px;
+	border-width:2px;
+	border-color: #D3D3D3;
+	width:750px;
+}
+a:hover{
+	color:#4aaaa5;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:link{
+	color:#777777;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited{
+	color:#777777;
+	background-color: transparent;
+	text-decoration: none;
+}
+header{
+	background-image: none;
+	background-color: white;
+}
+footer{
+	margin-top: 70px;
+	height:5px;
+	background-color:#4aaaa5;
+}
+#footer2{
+	margin: 0px;
+	height:30px;
+	background-color: #777777;
+}
+form{
+	margin:30px;
+	color:#777777;
+	font-family: Arial, Helvetica, sans-serif;
+}
+input[type=text], textarea{
+	border: 2px solid #777777;
+	border-radius: 4px;
+	margin-bottom: 10px;
+	color:#777777;
+	font-family: Arial, Helvetica, sans-serif;
+	width:100%;
+}
+input[type=submit]{
+	cursor: pointer;
+	margin-top: 20px;
+	background-color: #4aaaa5;
+	border:none;
+	border-radius: 2px;
+	color:white;
+	padding: 8px 16px;
+	font-size: 14px;
+}
+
